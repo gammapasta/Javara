@@ -26,21 +26,21 @@
 
 ## 📜 목차
 
-1. [주요 기능](#-주요-기능)
-2. [실제 구현 화면](#-실제-구현-화면)
-3. [기술 스택](#-기술-스택)
-4. [아키텍처 구성도](#-아키텍처-구성도)
-5. [ERD](#-erd)
-6. [API 명세서](#-api-명세서)
-7. [디렉터리 구조](#-디렉터리-구조)
-8. [팀원 소개](#-팀원-소개)
+1. [주요 기능](#주요-기능)
+2. [실제 구현 화면](#실제-구현-화면)
+3. [기술 스택](#기술-스택)
+4. [아키텍처 구성도](#아키텍처-구성도)
+5. [ERD](#erd)
+6. [API 명세서](#api-명세서)
+7. [디렉터리 구조](#디렉터리-구조)
+8. [팀원 소개](#팀원-소개)
 
 
 <br>
 
 ---
 
-## ⭐️ 주요 기능
+## ⭐️ 주요 기능 <a id="주요-기능"></a>
 
 ### 백엔드 시스템
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🖥️ 실제 구현 화면
+## 🖥️ 실제 구현 화면 <a id="실제-구현-화면"></a>
 
 ![screen1](https://raw.githubusercontent.com/gammapasta/Javara/refs/heads/main/img/%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%811.gif)
 
@@ -90,7 +90,7 @@
 
 ---
 
-## 🛠️ 기술 스택
+## 🛠️ 기술 스택 <a id="기술-스택"></a>
 
 ### 백엔드
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -103,7 +103,7 @@
 
 ---
 
-## 🏗️ 아키텍처 구성도
+## 🏗️ 아키텍처 구성도 <a id="아키텍처-구성도"></a>
 
 ![architecture-diagram](https://raw.githubusercontent.com/gammapasta/Javara/refs/heads/main/img/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png)
 
@@ -115,7 +115,7 @@
 
 ---
 
-## 🗂️ ERD
+## 🗂️ ERD <a id="erd"></a>
 
 
 ![erd-diagram](https://raw.githubusercontent.com/gammapasta/Javara/refs/heads/main/img/ERD.png)
@@ -124,7 +124,7 @@
 
 ---
 
-## 📖 API 명세서
+## 📖 API 명세서 <a id="api-명세서"></a>
 
 <details>
 <summary>API 목록 (클릭하여 펼치기)</summary>
@@ -202,7 +202,7 @@
 
 ---
 
-## 📁 디렉터리 구조
+## 📁 디렉터리 구조 <a id="디렉터리-구조"></a>
 
 <details>
 <summary>디렉터리 구조 (클릭하여 펼치기)</summary>
@@ -436,7 +436,7 @@ main
 
 ---
 
-## 🧑‍💻 팀원 소개
+## 🧑‍💻 팀원 소개 <a id="팀원-소개"></a>
 | 이름 | 역할 | 담당 | 깃허브 링크 |
 | --- | --- | --- | --- |
 | **조윤성** | AI, 팀장 | AI 기능 담당| |
